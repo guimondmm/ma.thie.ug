@@ -2,10 +2,25 @@
 	background-color: #251A24;
 }
 
+body {
+	width: 24em;
+	max-width: 85%;
+	margin: auto;
+	color: #E3CF9E;
+	padding: 2em 0;
+}
+
 h1 {
 	font-family: "Work Sans", sans-serif;
 	font-size: 42px;
 	text-align: center;
+	padding-bottom: 0.3em;
+}
+
+h2 {
+	font-family: "Work Sans", sans-serif;
+	font-size: 20px;
+	padding-top: 2em;
 	padding-bottom: 0.3em;
 }
 
@@ -17,13 +32,7 @@ p {
 	text-justify: inter-word;
 }
 
-.par {
-	width: 24em;
-	margin: auto;
-	color: #E3CF9E;
-	padding: 2em 0;
-}
-
-#firstpar {
-	text-indent: 0;
+q {
+  quotes: "\201C" "\201D" "\2018" "\2019";
+  font-style: italic;
 }
