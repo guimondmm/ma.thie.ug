@@ -1,0 +1,29 @@
+* {
+	background-color: #251A24;
+}
+
+h1 {
+	font-family: "Work Sans", sans-serif;
+	font-size: 42px;
+	text-align: center;
+	padding-bottom: 0.3em;
+}
+
+p {
+	font-family: "Taviraj", serif;
+	line-height: 1.7em;
+	text-indent: 1.5em;
+	text-align: justify;
+	text-justify: inter-word;
+}
+
+.par {
+	width: 24em;
+	margin: auto;
+	color: #E3CF9E;
+	padding: 2em 0;
+}
+
+#firstpar {
+	text-indent: 0;
+}
